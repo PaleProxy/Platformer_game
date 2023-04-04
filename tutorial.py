@@ -67,8 +67,6 @@ def draw(window, background, bg_image, player):
 
     player.draw(window)
 
-    player.draw(window)
-
     pygame.display.update()
 
 def main(window):
